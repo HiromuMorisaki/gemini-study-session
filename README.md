@@ -18,8 +18,8 @@ https://github.com/HiromuMorisaki/gemini-study-session.git
 外部ライブラリ（`pip install`）は不要です。Python 3.x環境があればすぐに実行できます。
 
 ```bash
-# 1. リポジトリをクローン（またはスクリプトを保存）
-$git clone [https://github.com/yourusername/log-analyzer.git$](https://github.com/yourusername/log-analyzer.git$) cd log-analyzer
+# 1. リポジトリをクローンしてディレクトリに移動
+$git clone [https://github.com/HiromuMorisaki/gemini-study-session.git$](https://github.com/HiromuMorisaki/gemini-study-session.git$) cd gemini-study-session
 
 # 2. スクリプトを実行
 $ python log_analyzer.py
