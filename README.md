@@ -1,7 +1,4 @@
-# gemini-study-session
 # Simple Error Log Analyzer
-
-https://github.com/HiromuMorisaki/gemini-study-session.git
 
 `access.log` から `ERROR` レベルのログを抽出し、エラーの種類ごとの発生回数と時間帯別の発生傾向を集計する、自己完結型のPythonスクリプトです。
 
@@ -19,7 +16,9 @@ https://github.com/HiromuMorisaki/gemini-study-session.git
 
 ```bash
 # 1. リポジトリをクローンしてディレクトリに移動
-$git clone [https://github.com/HiromuMorisaki/gemini-study-session.git$](https://github.com/HiromuMorisaki/gemini-study-session.git$) cd gemini-study-session
+git clone https://github.com/HiromuMorisaki/gemini-study-session.git
+cd gemini-study-session
 
 # 2. スクリプトを実行
-$ python log_analyzer.py
+python log_analyzer.py
+```
